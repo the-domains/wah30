@@ -50,8 +50,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/wah30'
 title: Werewolves at Hour 30
-datePublished: '2016-04-04T02:22:24.917Z'
-dateModified: '2016-04-04T02:21:28.781Z'
+datePublished: '2016-04-04T02:36:39.609Z'
+dateModified: '2016-04-04T02:36:15.674Z'
 sourcePath: _posts/2016-04-04-werewolves-at-hour-30.md
 published: true
 inFeed: true
