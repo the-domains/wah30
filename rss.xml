@@ -4,7 +4,7 @@
         <description><![CDATA[Werewolves at Hour 30]]></description>
         <link>https://thegrid.ai/wah30/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 01:58:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 02:01:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wah30/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +40,6 @@
             <link>https://thegrid.ai/wah30/d892badf-4aa6-4a90-af1b-a7bd8d340deb/index.html</link>
             <guid isPermaLink="false">d892badf-4aa6-4a90-af1b-a7bd8d340deb</guid>
             <pubDate>Mon, 04 Apr 2016 00:27:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37d9ddda-a292-45b3-a1ea-353f32a88d7e.jpg">]]></description>
-            <link>https://thegrid.ai/wah30/aa88a0c8-03ab-4449-8761-7459f2b68b5d/index.html</link>
-            <guid isPermaLink="false">aa88a0c8-03ab-4449-8761-7459f2b68b5d</guid>
-            <pubDate>Mon, 04 Apr 2016 00:25:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
