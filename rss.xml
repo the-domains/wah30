@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Werewolves at Hour 30]]></title>
         <description><![CDATA[Werewolves at Hour 30]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wah30/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 00:21:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 00:22:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wah30/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb4781ab-7bde-45c5-91fd-fd5cdb890d3c.jpg">]]></description>
+            <link>https://thegrid.ai/wah30/e691d3e7-8d6b-496f-9150-755c72a5fec0/index.html</link>
+            <guid isPermaLink="false">e691d3e7-8d6b-496f-9150-755c72a5fec0</guid>
+            <pubDate>Mon, 04 Apr 2016 00:22:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57e7a1fd-5fa5-4392-819e-9f4f9907d8cb.jpg">]]></description>
-            <link>undefined560347f0-41e0-44e8-9603-72fb047ea4bf/index.html</link>
+            <link>https://thegrid.ai/wah30/560347f0-41e0-44e8-9603-72fb047ea4bf/index.html</link>
             <guid isPermaLink="false">560347f0-41e0-44e8-9603-72fb047ea4bf</guid>
             <pubDate>Mon, 04 Apr 2016 00:21:06 GMT</pubDate>
         </item>
