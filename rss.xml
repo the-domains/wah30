@@ -4,8 +4,15 @@
         <description><![CDATA[Werewolves at Hour 30]]></description>
         <link>https://thegrid.ai/wah30/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 01:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 01:15:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wah30/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aead38d1-f69e-49b2-bdee-d732ffd67613.jpg">]]></description>
+            <link>https://thegrid.ai/wah30/ad881ede-13e3-4fbc-a59a-2147b65e4585/index.html</link>
+            <guid isPermaLink="false">ad881ede-13e3-4fbc-a59a-2147b65e4585</guid>
+            <pubDate>Mon, 04 Apr 2016 01:14:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb74ac73-f809-47dc-a492-e28ef311cfdc.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/wah30/aa88a0c8-03ab-4449-8761-7459f2b68b5d/index.html</link>
             <guid isPermaLink="false">aa88a0c8-03ab-4449-8761-7459f2b68b5d</guid>
             <pubDate>Mon, 04 Apr 2016 00:25:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb4781ab-7bde-45c5-91fd-fd5cdb890d3c.jpg">]]></description>
-            <link>https://thegrid.ai/wah30/e691d3e7-8d6b-496f-9150-755c72a5fec0/index.html</link>
-            <guid isPermaLink="false">e691d3e7-8d6b-496f-9150-755c72a5fec0</guid>
-            <pubDate>Mon, 04 Apr 2016 00:22:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
