@@ -1,6 +1,6 @@
 name: WAH30
 favicon: null
-layout_spectrum: 0.95545
+layout_spectrum: 0.98435
 typography_spectrum: 0.55748
 title: Werewolves at Hour 30
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#070909'
-    - '#f9f5f6'
-    - '#9dccbc'
-    - '#1d4344'
-    - '#568a87'
-  brandStrength: 0.1875
+    - '#ffffff'
+    - '#101314'
+    - '#3a4547'
+    - '#810000'
+    - '#84989b'
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
